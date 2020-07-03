@@ -1,0 +1,323 @@
+@media all and (max-width: 670px) {
+
+.user_bar {
+  padding: 0 2px;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.my-navbar-control {
+  padding-top: 6px;
+}
+
+.top_wrapper_back {
+  height: 200px;
+}
+
+.top_wrapper_text {
+  top: 60px;
+  left: 80px;
+  font-size: 8px;
+}
+
+.top_wrapper_logo {
+  top: 50px;
+  left: 30px;
+}
+
+.top_wrapper_logo img {
+  height: 70px;
+}
+
+.top_wrapper_share {
+  top: 150px;
+  left: 30px;
+}
+
+.top_wrapper_register {
+  top: 130px;
+  left: 220px;
+  font-size: 8px;
+  width: 100px;
+}
+
+.top_wrapper_register_text {
+  margin: 0px;
+}
+
+.top_wrapper_register_button {
+  margin-left: 4px;
+}
+
+.top_wrapper_terms {
+  margin-top: 4px;
+}
+
+.top_wrapper_terms > a{
+  font-size: 4px;
+}
+
+.center {
+  width: 100%;
+}
+
+.right {
+  display: none;
+}
+
+.center_about {
+  width: 95%;
+}
+
+.center_about_1, .center_about_2{
+  flex: auto;
+}
+
+.center_about_text {
+  font-size: 10px;
+}
+
+.center_n_wrap {
+  margin: 2px;
+  min-width: fit-content;
+  border-width: 2px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.56);
+}
+
+.center_n {
+  border-width: 2px;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.56);
+}
+
+.progress_bar_true, .progress_bar_false {
+  margin-bottom: 3px;
+}
+
+.center_n_btn {
+  font-size: 10px;
+  padding: 4px 6px;
+  height: 24px;
+  margin: 8px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.56);
+}
+
+.center_p .level {
+  font-size: 10px;
+  padding: 4px 4px 2px 4px;
+}
+
+.center_p .level_5 {
+  font-size: 8px;
+  padding: 2px 4px 2px 0;
+}
+
+.count {
+  font-size: 14px;
+  padding: 4px;
+  padding-top: 0;
+}
+
+.start {
+  font-size: 10px;
+}
+
+.bar {
+  flex-wrap: wrap;
+}
+
+.bar_n {
+  font-size: 10px;
+  width: 50%;
+  min-width: 120px;
+  height: 61px;
+}
+
+.back_home {
+  margin: 5px 0 5px 10px;
+  font-size: 14px;
+}
+
+.select {
+  margin: 0;
+}
+
+.select_n {
+  flex: auto;
+  width: 110px;
+  margin: 2px 2px;
+  font-size: 12px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.56);
+}
+
+.fa-model {
+  font-size: 1em;
+}
+
+.selectbox {
+  margin: 5px;
+}
+
+.modal_content {
+  top: 40%;
+  width: 98%;
+  height: auto;
+  font-size: 12px;
+  padding-bottom: 20px;
+}
+
+#start_no {
+  font-size: 14px;
+  margin-bottom: 6px;
+}
+
+#quiz_area {
+  margin: 4.5em auto;
+}
+
+.btn-flat-vertical-border {
+  width: 80px;
+  font-size: 12px;
+  margin: 4px;
+}
+
+.btn_quiz_wrap {
+  width: 80px;
+  margin-top: 2.8em;
+  margin-bottom: 3.5em;
+}
+
+.word_q {
+  margin-bottom: 0.5em;
+}
+
+.word_q div, .word_q span {
+  font-size: 16px;
+}
+
+#word_text_box {
+    height: 20px;
+    width: 120px;
+    font-size: 1em;
+    margin-left: 7em;
+    border-width: 1px;
+}
+
+.word_no_wrap  {
+  padding-bottom: 1px;
+  padding-left: 4em;
+}
+
+.word_lemma_head_wrap {
+  padding-bottom: 3px;
+}
+
+.quiz_top {
+  padding-bottom: 0.5em;
+}
+
+#quiz_result {
+  height: 135px;
+  flex-wrap: nowrap;
+  overflow: scroll;
+  width: 65%;
+  background-color: #f9f9f9;
+  margin-left: 2em;
+  border-radius: 6px;
+}
+
+#quiz_bottom {
+      padding: 1em 1em 0 1em;
+}
+
+#quiz_score {
+  padding-top: 10px;
+}
+
+#quiz_result li:nth-child(11),
+#quiz_result li:nth-child(12),
+#quiz_result li:nth-child(13),
+#quiz_result li:nth-child(14),
+#quiz_result li:nth-child(15),
+#quiz_result li:nth-child(16),
+#quiz_result li:nth-child(17),
+#quiz_result li:nth-child(18),
+#quiz_result li:nth-child(19),
+#quiz_result li:nth-child(20) {
+  border-left: none;
+}
+
+.quiz_result_n {
+  height: auto;
+  width: auto;
+  padding: 0 1.5em 0 0em;
+}
+
+.user_page {
+  width: 350px;
+  margin: 50px auto;
+}
+
+.user_page_title {
+  padding: 2px;
+  font-size: 12px;
+}
+
+.user_page_table {
+  width: 100%;
+}
+
+.user_page_table td {
+  font-size: 12px;
+}
+
+.user_page_table input {
+  width: 220px;
+  height: auto;
+  font-size: 12px;
+}
+
+.user_page_table select {
+  width: 80px;
+  font-size: 12px;
+}
+
+.user_page_submit {
+  width: 120px;
+  font-size: 12px;
+}
+
+.user_page_back a {
+font-size: 12px;
+}
+
+.user_page_submit_wrap {
+  margin-bottom: 4px;
+}
+
+.terms {
+  width: 100%;
+}
+
+footer .btn {
+  font-size: 10px;
+}
+
+.alert-danger {
+  font-size: 12px;
+}
+
+.back_home_or_go {
+  margin: 4px;;
+}
+
+.movebtn {
+  font-size: 10px;
+  padding: 4px 16px;
+  margin: 2px;
+}
+
+.balloon1-right {
+  display: none;
+}
+
+}
